@@ -2,6 +2,10 @@ Hai hello namste
 nenu mi Nagarjuna 
 melo evaru kotisvarudu nunchi matladutunna!!!!!
 
+<<<<<<< HEAD
 
 
 Welcome to Jumanji
+=======
+Computer gaaru lock the screen!!!
+>>>>>>> f5
